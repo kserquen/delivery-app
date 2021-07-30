@@ -9,3 +9,21 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container-app {
+    text-align: center;
+    color: #0a58caff;
+}
+
+.container-app h3 {
+    font-size: 18px;
+}
+
+.links {
+    text-align: center;
+}
